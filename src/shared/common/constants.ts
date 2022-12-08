@@ -1,0 +1,3 @@
+const STORAGE_TOKEN = 'CITIES';
+
+export { STORAGE_TOKEN };
